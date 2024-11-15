@@ -22,7 +22,8 @@ Technology Stack
 - Database: MongoDB
 - Frontend: React, HTML, CSS
 
-- System Requirements
+
+System Requirements
 
 Hardware
 Functioning CCTV Camera or equivalent
